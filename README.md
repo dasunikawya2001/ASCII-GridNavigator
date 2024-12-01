@@ -4,19 +4,21 @@ The program calculates the minimum distance path from a starting point to an end
 
 Features:
 
-  Dynamic Map Creation
-  Pathfinding Algorithm
+  Dynamic Map Creation, 
+  Pathfinding Algorithm, 
   Custom Movement Rules
 
 Example Use Case:
 
 Input:
+
     5 5  
     0 0  
     4 2  
     ABCCDGLCKEZZBLFXYCMGDVEGH 
     
 Output:
+
     The minimum distance from A to E is 6 
 
 
