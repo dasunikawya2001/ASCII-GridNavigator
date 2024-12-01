@@ -13,6 +13,7 @@ Input:
     0 0  
     4 2  
     ABCCDGLCKEZZBLFXYCMGDVEGH 
+    
 Output:
     The minimum distance from A to E is 6 
 
