@@ -8,12 +8,12 @@ Features:
   Custom Movement Rules
 
 Example Use Case:
-  Input:
+Input:
     5 5  
     0 0  
     4 2  
     ABCCDGLCKEZZBLFXYCMGDVEGH 
-  Output:
+Output:
     The minimum distance from A to E is 6 
 
 
